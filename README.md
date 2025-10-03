@@ -45,7 +45,7 @@ I’m passionate about cybersecurity, networking, and Linux. I dedicate my time 
 ## 📫 Contact
 - ✉️ faquirdagloria@gmail.com  
 - 💼 [LinkedIn]([https://www.linkedin.com/in/faquir-da-gl%C3%B3ria-b742b2249/])  
-- 🌐 Site: [faquirmanhica.dev]([https://faquirdagloria.dev](https://portifoliofaquir.netlify.app/))
+- 🌐 Site:[https://faquirdagloria.dev](https://portifoliofaquir.netlify.app/))
 
 ---
 
